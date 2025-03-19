@@ -1,6 +1,7 @@
 #set an initial seed value to make results reproducible
-set.seed(123456)   
+set.seed(12345)   
 
+##another big change
 # the first part of the program defines the simulation 'cholc.sim'
 # 1st argument Nstudies = number of studied to be simulated
 # 2nd argument N = number of observations per study
