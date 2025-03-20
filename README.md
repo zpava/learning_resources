@@ -1,1 +1,1 @@
-# scRNA_resources
+# workflows for bioinformatic analysis and reproducible research
